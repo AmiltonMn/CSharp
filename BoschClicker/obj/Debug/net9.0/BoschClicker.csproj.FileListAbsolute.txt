@@ -1,0 +1,14 @@
+C:\Users\disrct\Desktop\BoschClicker\bin\Debug\net9.0\BoschClicker.exe
+C:\Users\disrct\Desktop\BoschClicker\bin\Debug\net9.0\BoschClicker.deps.json
+C:\Users\disrct\Desktop\BoschClicker\bin\Debug\net9.0\BoschClicker.runtimeconfig.json
+C:\Users\disrct\Desktop\BoschClicker\bin\Debug\net9.0\BoschClicker.dll
+C:\Users\disrct\Desktop\BoschClicker\bin\Debug\net9.0\BoschClicker.pdb
+C:\Users\disrct\Desktop\BoschClicker\obj\Debug\net9.0\BoschClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\BoschClicker\obj\Debug\net9.0\BoschClicker.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\BoschClicker\obj\Debug\net9.0\BoschClicker.AssemblyInfo.cs
+C:\Users\disrct\Desktop\BoschClicker\obj\Debug\net9.0\BoschClicker.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\BoschClicker\obj\Debug\net9.0\BoschClicker.dll
+C:\Users\disrct\Desktop\BoschClicker\obj\Debug\net9.0\refint\BoschClicker.dll
+C:\Users\disrct\Desktop\BoschClicker\obj\Debug\net9.0\BoschClicker.pdb
+C:\Users\disrct\Desktop\BoschClicker\obj\Debug\net9.0\BoschClicker.genruntimeconfig.cache
+C:\Users\disrct\Desktop\BoschClicker\obj\Debug\net9.0\ref\BoschClicker.dll
