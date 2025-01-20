@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\disrct\\Desktop\\SistemaEscolar\\Database\\Database.csproj": {}
+    "C:\\Users\\disrct\\Desktop\\CSharp\\SistemaEscolar\\Database\\Database.csproj": {}
   },
   "projects": {
-    "C:\\Users\\disrct\\Desktop\\SistemaEscolar\\Database\\Database.csproj": {
+    "C:\\Users\\disrct\\Desktop\\CSharp\\SistemaEscolar\\Database\\Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\SistemaEscolar\\Database\\Database.csproj",
+        "projectUniqueName": "C:\\Users\\disrct\\Desktop\\CSharp\\SistemaEscolar\\Database\\Database.csproj",
         "projectName": "Database",
-        "projectPath": "C:\\Users\\disrct\\Desktop\\SistemaEscolar\\Database\\Database.csproj",
+        "projectPath": "C:\\Users\\disrct\\Desktop\\CSharp\\SistemaEscolar\\Database\\Database.csproj",
         "packagesPath": "C:\\Users\\disrct\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\disrct\\Desktop\\SistemaEscolar\\Database\\obj\\",
+        "outputPath": "C:\\Users\\disrct\\Desktop\\CSharp\\SistemaEscolar\\Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\disrct\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,18 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,6 +64,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.11, 8.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
