@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\CSharp\JsonConverter\bin\Debug\net9.0\JsonConverter.exe
+C:\Users\disrct\Desktop\CSharp\JsonConverter\bin\Debug\net9.0\JsonConverter.deps.json
+C:\Users\disrct\Desktop\CSharp\JsonConverter\bin\Debug\net9.0\JsonConverter.runtimeconfig.json
+C:\Users\disrct\Desktop\CSharp\JsonConverter\bin\Debug\net9.0\JsonConverter.dll
+C:\Users\disrct\Desktop\CSharp\JsonConverter\bin\Debug\net9.0\JsonConverter.pdb
+C:\Users\disrct\Desktop\CSharp\JsonConverter\obj\Debug\net9.0\JsonConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\CSharp\JsonConverter\obj\Debug\net9.0\JsonConverter.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\CSharp\JsonConverter\obj\Debug\net9.0\JsonConverter.AssemblyInfo.cs
+C:\Users\disrct\Desktop\CSharp\JsonConverter\obj\Debug\net9.0\JsonConverter.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\CSharp\JsonConverter\obj\Debug\net9.0\JsonConverter.sourcelink.json
+C:\Users\disrct\Desktop\CSharp\JsonConverter\obj\Debug\net9.0\JsonConverter.dll
+C:\Users\disrct\Desktop\CSharp\JsonConverter\obj\Debug\net9.0\refint\JsonConverter.dll
+C:\Users\disrct\Desktop\CSharp\JsonConverter\obj\Debug\net9.0\JsonConverter.pdb
+C:\Users\disrct\Desktop\CSharp\JsonConverter\obj\Debug\net9.0\JsonConverter.genruntimeconfig.cache
+C:\Users\disrct\Desktop\CSharp\JsonConverter\obj\Debug\net9.0\ref\JsonConverter.dll

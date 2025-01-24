@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\bin\Debug\net9.0\ConteudoDificil(EuAcho).exe
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\bin\Debug\net9.0\ConteudoDificil(EuAcho).deps.json
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\bin\Debug\net9.0\ConteudoDificil(EuAcho).runtimeconfig.json
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\bin\Debug\net9.0\ConteudoDificil(EuAcho).dll
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\bin\Debug\net9.0\ConteudoDificil(EuAcho).pdb
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\obj\Debug\net9.0\ConteudoDificil(EuAcho).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\obj\Debug\net9.0\ConteudoDificil(EuAcho).AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\obj\Debug\net9.0\ConteudoDificil(EuAcho).AssemblyInfo.cs
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\obj\Debug\net9.0\ConteudoDificil(EuAcho).csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\obj\Debug\net9.0\ConteudoDificil(EuAcho).sourcelink.json
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\obj\Debug\net9.0\ConteudoDificil(EuAcho).dll
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\obj\Debug\net9.0\refint\ConteudoDificil(EuAcho).dll
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\obj\Debug\net9.0\ConteudoDificil(EuAcho).pdb
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\obj\Debug\net9.0\ConteudoDificil(EuAcho).genruntimeconfig.cache
+C:\Users\disrct\Desktop\CSharp\ConteudoDificil(EuAcho)\obj\Debug\net9.0\ref\ConteudoDificil(EuAcho).dll

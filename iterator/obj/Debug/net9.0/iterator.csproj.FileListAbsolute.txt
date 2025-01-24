@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\CSharp\iterator\bin\Debug\net9.0\iterator.exe
+C:\Users\disrct\Desktop\CSharp\iterator\bin\Debug\net9.0\iterator.deps.json
+C:\Users\disrct\Desktop\CSharp\iterator\bin\Debug\net9.0\iterator.runtimeconfig.json
+C:\Users\disrct\Desktop\CSharp\iterator\bin\Debug\net9.0\iterator.dll
+C:\Users\disrct\Desktop\CSharp\iterator\bin\Debug\net9.0\iterator.pdb
+C:\Users\disrct\Desktop\CSharp\iterator\obj\Debug\net9.0\iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\CSharp\iterator\obj\Debug\net9.0\iterator.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\CSharp\iterator\obj\Debug\net9.0\iterator.AssemblyInfo.cs
+C:\Users\disrct\Desktop\CSharp\iterator\obj\Debug\net9.0\iterator.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\CSharp\iterator\obj\Debug\net9.0\iterator.sourcelink.json
+C:\Users\disrct\Desktop\CSharp\iterator\obj\Debug\net9.0\iterator.dll
+C:\Users\disrct\Desktop\CSharp\iterator\obj\Debug\net9.0\refint\iterator.dll
+C:\Users\disrct\Desktop\CSharp\iterator\obj\Debug\net9.0\iterator.pdb
+C:\Users\disrct\Desktop\CSharp\iterator\obj\Debug\net9.0\iterator.genruntimeconfig.cache
+C:\Users\disrct\Desktop\CSharp\iterator\obj\Debug\net9.0\ref\iterator.dll

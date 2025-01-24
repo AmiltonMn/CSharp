@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\CSharp\PatternMatch\bin\Debug\net9.0\PatternMatch.exe
+C:\Users\disrct\Desktop\CSharp\PatternMatch\bin\Debug\net9.0\PatternMatch.deps.json
+C:\Users\disrct\Desktop\CSharp\PatternMatch\bin\Debug\net9.0\PatternMatch.runtimeconfig.json
+C:\Users\disrct\Desktop\CSharp\PatternMatch\bin\Debug\net9.0\PatternMatch.dll
+C:\Users\disrct\Desktop\CSharp\PatternMatch\bin\Debug\net9.0\PatternMatch.pdb
+C:\Users\disrct\Desktop\CSharp\PatternMatch\obj\Debug\net9.0\PatternMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\CSharp\PatternMatch\obj\Debug\net9.0\PatternMatch.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\CSharp\PatternMatch\obj\Debug\net9.0\PatternMatch.AssemblyInfo.cs
+C:\Users\disrct\Desktop\CSharp\PatternMatch\obj\Debug\net9.0\PatternMatch.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\CSharp\PatternMatch\obj\Debug\net9.0\PatternMatch.sourcelink.json
+C:\Users\disrct\Desktop\CSharp\PatternMatch\obj\Debug\net9.0\PatternMatch.dll
+C:\Users\disrct\Desktop\CSharp\PatternMatch\obj\Debug\net9.0\refint\PatternMatch.dll
+C:\Users\disrct\Desktop\CSharp\PatternMatch\obj\Debug\net9.0\PatternMatch.pdb
+C:\Users\disrct\Desktop\CSharp\PatternMatch\obj\Debug\net9.0\PatternMatch.genruntimeconfig.cache
+C:\Users\disrct\Desktop\CSharp\PatternMatch\obj\Debug\net9.0\ref\PatternMatch.dll

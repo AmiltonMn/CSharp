@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\CSharp\Desafio\bin\Debug\net9.0\Desafio.exe
+C:\Users\disrct\Desktop\CSharp\Desafio\bin\Debug\net9.0\Desafio.deps.json
+C:\Users\disrct\Desktop\CSharp\Desafio\bin\Debug\net9.0\Desafio.runtimeconfig.json
+C:\Users\disrct\Desktop\CSharp\Desafio\bin\Debug\net9.0\Desafio.dll
+C:\Users\disrct\Desktop\CSharp\Desafio\bin\Debug\net9.0\Desafio.pdb
+C:\Users\disrct\Desktop\CSharp\Desafio\obj\Debug\net9.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\CSharp\Desafio\obj\Debug\net9.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\CSharp\Desafio\obj\Debug\net9.0\Desafio.AssemblyInfo.cs
+C:\Users\disrct\Desktop\CSharp\Desafio\obj\Debug\net9.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\CSharp\Desafio\obj\Debug\net9.0\Desafio.sourcelink.json
+C:\Users\disrct\Desktop\CSharp\Desafio\obj\Debug\net9.0\Desafio.dll
+C:\Users\disrct\Desktop\CSharp\Desafio\obj\Debug\net9.0\refint\Desafio.dll
+C:\Users\disrct\Desktop\CSharp\Desafio\obj\Debug\net9.0\Desafio.pdb
+C:\Users\disrct\Desktop\CSharp\Desafio\obj\Debug\net9.0\Desafio.genruntimeconfig.cache
+C:\Users\disrct\Desktop\CSharp\Desafio\obj\Debug\net9.0\ref\Desafio.dll
