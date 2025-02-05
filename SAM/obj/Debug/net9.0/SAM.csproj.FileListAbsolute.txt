@@ -1,0 +1,15 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\bin\Debug\net9.0\SAM.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\bin\Debug\net9.0\SAM.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\bin\Debug\net9.0\SAM.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\bin\Debug\net9.0\SAM.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\bin\Debug\net9.0\SAM.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\obj\Debug\net9.0\SAM.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\obj\Debug\net9.0\SAM.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\obj\Debug\net9.0\SAM.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\obj\Debug\net9.0\SAM.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\obj\Debug\net9.0\SAM.sourcelink.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\obj\Debug\net9.0\SAM.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\obj\Debug\net9.0\refint\SAM.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\obj\Debug\net9.0\SAM.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\obj\Debug\net9.0\SAM.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\5 - Soluções Digitais 2024\Amilton Moreira\17. CSharp\SAM\obj\Debug\net9.0\ref\SAM.dll

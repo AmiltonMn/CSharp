@@ -1,0 +1,15 @@
+SOLID
+
+S - 
+
+
+O - Open and closed. Classes fechadas para modificação mas abertas para extensão. Uso de interfaces.
+
+
+L - Toda classe que herda de 'A' deve ser capaz de fazer tudo que 'A' faz
+
+
+I - (principio da segregação de interface). Se puder separar uma interface a separe, não há necessidade de sobrecarga.
+
+
+D - (princpio da inversão de dependencias). Quando um objeto 'C' precisar utilizar de um objeto que herda de 'A', deve se referenciar diretamento a classe mãe, ou seja, à 'A'.

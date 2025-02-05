@@ -78,7 +78,7 @@ foreach (var instrutor in instrutores)
 
 // Coalisão nula
 var ETSCuritiba = new ETS("Curitiba", instrutores);
-foreach (var instrutor in ETSCuritiba?.Instrutores ?? []) // Aqui na parte "ETSCuritiba?" caso a expressão da esquerda seja nul,a returna nulo, caso "ETSCuritiba.Instrutores" seja nulo, retorna "[]"
+foreach (var instrutor in ETSCuritiba?.Instrutores ?? []) // Aqui na parte "ETSCuritiba?" caso a expressão da esquerda seja nulla returna nulo, caso "ETSCuritiba.Instrutores" seja nulo, retorna "[]"
 {
     Console.WriteLine($"{instrutor?.Nome ?? "Sem Nome"}"); // Aqui tem a mesma lógica, caso "instrutor" seja nulo, retorna um nulo, caso isso retorne nulo, retorna "Sem Nome"
 }

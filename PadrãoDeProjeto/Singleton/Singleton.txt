@@ -1,0 +1,16 @@
+No Singleton, o construtor é privado.
+Além disso, no Singleton, temos uma variável "Instance" em nossa classe, que irá conter uma variável que seja do tipo da nossa classe.
+No Singleton, ao invés de criar apenas um objeto, podemos criar uma lista de vários objetos do tipo dessa classe.
+
+Um bom exemplo seria no nosso Game.cs para termos vários saves, podemos fazer uma lista de tipo Game.
+
+Pequena definição:
+Porque voce tem tidas as vantagens de poder usar o objeto, só que aliado com a possibilidade de fazer a variável global.
+
+Vantagens:
+O objeto é criado perfeitamente,
+Podemos resetar perfeitamente,
+Há referência,
+Pedmos guardar estruturas de dados.
+
+Temos todas as vantagens de usar um objeto só que global.

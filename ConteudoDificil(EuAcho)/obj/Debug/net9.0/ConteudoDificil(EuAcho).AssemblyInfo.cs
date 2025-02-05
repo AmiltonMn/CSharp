@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConteudoDificil(EuAcho)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c623422908f97fcda9ed45eacb9a0fe2f5a49155")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23977cbd05a23b700550ca4b6dfa86bc8946a5f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConteudoDificil(EuAcho)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConteudoDificil(EuAcho)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

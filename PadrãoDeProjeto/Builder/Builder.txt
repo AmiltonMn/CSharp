@@ -1,0 +1,5 @@
+É ótimo para fazermos configurações e mexer com classes que possuem construtores monstruosos, cheios de variáveis.
+
+Fazemos várias funções dentro de uma classe, para fazermos construções mais nichadas.
+
+Com ele ganhamos desempenho e facilitamos a nossa API.
